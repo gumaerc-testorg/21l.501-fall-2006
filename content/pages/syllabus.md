@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course description and information about course
+  requirements, the skills you'll learn, how you'll learn those skills, grading, recommended
+  citation, and a calendar of lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

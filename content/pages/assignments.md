@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the three essays and one revision,
+  criteria for grading, and a note on plagiarism.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -113,7 +115,7 @@ Each paper will be judged according to the following criteria:
 5.  It should make a cogent and persuasive argument. In other words, it should have a specific, thesis—the answer to the main question that you're hoping to raise, which you're posing of the text, which you think remains to be answered.
 6.  It should offer ample and solid evidence to support your claims.
 7.  It should include a conclusion that not only summarizes your argument in one or two sentences but also offers me a sense of what work still remains to be done in light of the work that your essay itself has begun.
-8.  It should **not** be plagiarized! Plagiarism is cause for expulsion! (Review the policy on Academic Honesty in the [syllabus]({{< baseurl >}}/pages/syllabus)).
+8.  It should **not** be plagiarized! Plagiarism is cause for expulsion! (Review the policy on Academic Honesty in the {{% resource_link 36ee7683-4779-cf6a-f5e4-1aa5679b9953 "syllabus" %}}).
 
 Plagiarism
 ----------
