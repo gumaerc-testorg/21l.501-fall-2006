@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required readings and readings by
+  lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a980beab-df23-bd25-b885-097212406369
 ---
@@ -62,7 +67,7 @@ Introduction
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Nathaniel Hawthorne
 {{< tdclose >}}
 {{< tdopen >}}
@@ -83,7 +88,7 @@ _Scarlet Letter_, chapter 21-end.
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Harriet Beecher Stowe
 {{< tdclose >}}
 {{< tdopen >}}
@@ -104,7 +109,7 @@ _Uncle Tom's Cabin_, chapter 29-end.
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 William Faulkner
 {{< tdclose >}}
 {{< tdopen >}}
@@ -146,7 +151,7 @@ _Turn of the Screw_ (read all).
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Maxine Hong Kingston
 {{< tdclose >}}
 {{< tdopen >}}
@@ -176,7 +181,7 @@ _Woman Warrior_. Read "A Song for a Barbarian Reed Pipe."
 {{< tdopen >}}
 13
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Cormac McCarthy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -206,7 +211,7 @@ _Blood Meridian_, chapter 14-end.
 {{< tdopen >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Toni Morrison
 {{< tdclose >}}
 {{< tdopen >}}
@@ -236,7 +241,7 @@ _Beloved_, pp. 170-end.
 {{< tdopen >}}
 19
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Louise Erdrich
 {{< tdclose >}}
 {{< tdopen >}}
@@ -266,7 +271,7 @@ _Tracks_, chapter 8-end.
 {{< tdopen >}}
 22
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Philip Roth
 {{< tdclose >}}
 {{< tdopen >}}
@@ -287,7 +292,7 @@ _American Pastoral_, chapters 4-5.
 {{< tdopen >}}
 24
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Edward P. Jones
 {{< tdclose >}}
 {{< tdopen >}}
