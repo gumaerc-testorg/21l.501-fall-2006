@@ -12,11 +12,11 @@ uid: a980beab-df23-bd25-b885-097212406369
 Required Texts
 --------------
 
-Hawthorn, Nathaniel. _The Scarlet Letter_ \[1850\]. New York, NY: Penguin Classics, 2002. ISBN: 9780142437261. The {{% resource_link "99b8349d-93e1-4805-af4a-00f751169482" "e-text" %}} is available at Project Gutenberg.
+Hawthorn, Nathaniel. _The Scarlet Letter_ \[1850\]. New York, NY: Penguin Classics, 2002. ISBN: 9780142437261. The [e-text](http://www.gutenberg.org/etext/33) is available at Project Gutenberg.
 
-Stowe, Harriet Beecher. _Uncle Tom's Cabin_ \[1852\]. New York, NY: Wordsworth Editions, Ltd., 1999. ISBN: 9781840224023. The {{% resource_link "8bfc1ed4-b528-4844-8f43-53160678bce0" "e-text" %}} is available at Project Gutenberg.
+Stowe, Harriet Beecher. _Uncle Tom's Cabin_ \[1852\]. New York, NY: Wordsworth Editions, Ltd., 1999. ISBN: 9781840224023. The [e-text](http://www.gutenberg.org/etext/203) is available at Project Gutenberg.
 
-James, Henry. _The Turn of the Screw_ \[1898\]. Clayton, DE: Prestwick House, Inc., 2006. ISBN: 9781580491617. The {{% resource_link "81b942bd-fef4-447c-8b36-e08087053503" "e-text" %}} is available at Project Gutenberg.
+James, Henry. _The Turn of the Screw_ \[1898\]. Clayton, DE: Prestwick House, Inc., 2006. ISBN: 9781580491617. The [e-text](http://www.gutenberg.org/etext/209) is available at Project Gutenberg.
 
 Faulkner, William. _Absalom, Absalom!_ \[1936\]. New York, NY: Vintage Books, 1991. ISBN: 9780679732181.
 
